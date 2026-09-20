@@ -1,5 +1,4 @@
-// Replace this URL with your actual Render URL after deploying the back-end
-const BACKEND_URL = "https://your-app-name.onrender.com"; 
+const BACKEND_URL = "https://bonk-baby-bonk.onrender.com"; 
 
 let socket;
 let currentRoom = "";
